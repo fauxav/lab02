@@ -1,0 +1,7 @@
+*
+!*.c
+!*.h
+!.gitignore
+!README.md
+!*/
+.DS_Store
